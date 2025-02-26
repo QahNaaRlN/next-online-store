@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'Grtsk Peta';
+	src: url('/fonts/GrtskPeta-Regular.eot');
+	src: local('Grtsk Peta Regular'), local('GrtskPeta-Regular'),
+	url('/fonts/GrtskPeta-Regular.eot?#iefix') format('embedded-opentype'),
+	url('/fonts/GrtskPeta-Regular.woff2') format('woff2'),
+	url('/fonts/GrtskPeta-Regular.woff') format('woff'),
+	url('/fonts/GrtskPeta-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Grtsk Peta';
+	src: url('/fonts/GrtskPeta-Medium.eot');
+	src: local('Grtsk Peta Medium'), local('GrtskPeta-Medium'),
+	url('/fonts/GrtskPeta-Medium.eot?#iefix') format('embedded-opentype'),
+	url('/fonts/GrtskPeta-Medium.woff2') format('woff2'),
+	url('/fonts/GrtskPeta-Medium.woff') format('woff'),
+	url('/fonts/GrtskPeta-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Grtsk Peta';
+	src: url('/fonts/GrtskPeta-Bold.eot');
+	src: local('Grtsk Peta Bold'), local('GrtskPeta-Bold'),
+	url('/fonts/GrtskPeta-Bold.eot?#iefix') format('embedded-opentype'),
+	url('/fonts/GrtskPeta-Bold.woff2') format('woff2'),
+	url('/fonts/GrtskPeta-Bold.woff') format('woff'),
+	url('/fonts/GrtskPeta-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
